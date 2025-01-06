@@ -1,1 +1,2 @@
+# Home NAS
 I deployed a Network Attached Storage (NAS) solution on a personal server using OpenMediaVault, configured with RAID to ensure redundancy and data security. The system was designed for seamless access across various operating systems and devices, including PCs and mobile platforms, maximizing efficiency in data access. Additionally, I implemented global access capabilities through a personalized domain, enhancing convenience and eliminating the need for expensive cloud service subscriptions.
